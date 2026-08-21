@@ -77,10 +77,10 @@ Backed by intel refreshed continuously rather than shipped once:
 
 | Dataset | Entries |
 |---|---|
-| Disposable email domains | 162,755 |
-| Datacenter and hosting ranges | 44,674 |
-| Disposable phone prefixes | 126,540 |
-| Proxy ranges | 12,335 |
+| Disposable email domains | 160,000+ |
+| Datacenter and hosting ranges | 44,000+ |
+| Disposable phone prefixes | 125,000+ |
+| Proxy ranges | 12,000+ |
 
 ---
 
@@ -111,7 +111,7 @@ Opt-in, off by default, and it compounds: every operator who joins makes it shar
 | [`@kaidn/sdk`](https://github.com/Kaidn-io/kaidn-js) | `npm i @kaidn/sdk` | Server-side Node and TypeScript client for every keyed endpoint |
 | [`@kaidn/fp`](https://github.com/Kaidn-io/kaidn-js) | `npm i @kaidn/fp` | Browser device fingerprint and signal collection, drop-in script or module |
 | [`@kaidn/mcp`](https://github.com/Kaidn-io/kaidn-mcp) | `npx @kaidn/mcp` | Investigate fraud from Claude, Cursor or any MCP client |
-| [`kaidn`](https://github.com/Kaidn-io/kaidn-python) | `pip install git+https://github.com/Kaidn-io/kaidn-python` | Official Python client, zero dependencies |
+| [`kaidn`](https://github.com/Kaidn-io/kaidn-python) | `pip install kaidn` | Official Python client, zero dependencies |
 | [`caddy-ja4`](https://github.com/Kaidn-io/caddy-ja4) | Caddy module | JA4 TLS fingerprinting at the edge |
 
 The MCP server is worth calling out. It turns an AI assistant into a fraud analyst that can explain any verdict with its evidence, pivot from one signup to every account sharing its device, IP or inbox, check an entity against the abuse network, and work the review queue. Read-only by default.
