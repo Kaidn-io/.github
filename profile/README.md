@@ -1,4 +1,20 @@
-# Kaidn
+<!-- kaidn-header -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaidn-io/.github/main/profile/kaidn-banner-dark.png">
+    <img src="https://raw.githubusercontent.com/Kaidn-io/.github/main/profile/kaidn-banner-light.png" alt="Kaidn" width="560">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@kaidn/sdk"><img src="https://img.shields.io/npm/v/@kaidn/sdk?logo=npm&logoColor=white&label=%40kaidn%2Fsdk" alt="@kaidn/sdk on npm"></a>
+  <a href="https://www.npmjs.com/package/@kaidn/fp"><img src="https://img.shields.io/npm/v/@kaidn/fp?logo=npm&logoColor=white&label=%40kaidn%2Ffp" alt="@kaidn/fp on npm"></a>
+  <a href="https://www.npmjs.com/package/@kaidn/mcp"><img src="https://img.shields.io/npm/v/@kaidn/mcp?logo=npm&logoColor=white&label=%40kaidn%2Fmcp" alt="@kaidn/mcp on npm"></a>
+  <a href="https://pypi.org/project/kaidn/"><img src="https://img.shields.io/pypi/v/kaidn?logo=pypi&logoColor=white&label=pypi%20kaidn" alt="kaidn on PyPI"></a>
+  <a href="https://packagist.org/packages/kaidn/kaidn-php"><img src="https://img.shields.io/packagist/v/kaidn/kaidn-php?logo=packagist&logoColor=white&label=packagist" alt="kaidn-php on Packagist"></a>
+  <a href="https://kaidn.io/docs"><img src="https://img.shields.io/badge/docs-kaidn.io-FF4D00" alt="docs"></a>
+</p>
+<!-- /kaidn-header -->
 
 ### Stop fraud before it costs you money.
 
